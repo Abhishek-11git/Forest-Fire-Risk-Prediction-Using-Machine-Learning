@@ -1,0 +1,2 @@
+# Forest-Fire-Risk-Prediction-Using-Machine-Learning
+This project builds a machine-learning classifier to estimate forest fire risk from weather data. After cleaning and analyzing the Extended Algerian Forest Fires dataset, Logistic Regression, Decision Tree, and Random Forest models were trained. Random Forest was chosen for top test performance. A Jupyter form predicts fire risk from seven inputs.
